@@ -7,5 +7,4 @@ I'm a computer scientist in love with Distributed Systems and SRE culture. Let's
 - 🔭 I’m currently working on [VTEX](https://vtex.com/)
 - 🌱 I’m currently learning [SRE](https://sre.google/) & [DS](https://www.confluent.io/learn/distributed-systems/)
 - 📫 How to reach me: try through [Linkedin](https://www.linkedin.com/in/dfquaresma/)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: as you might see, I also enjoy Souls series...
