@@ -1,4 +1,4 @@
-## Hey, I'm Quaresma. Welcome
+## Hey, I'm Quaresma. Welcome!
 
 I'm a computer scientist in love with Distributed Systems and SRE culture. Let's shake hands in these wonderful systems.
 
